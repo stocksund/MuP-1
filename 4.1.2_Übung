@@ -33,6 +33,7 @@ public class Aufgabe1_Version2 {
         }
         return wortMap;
     }
+    //Test Test
 
 }
 
